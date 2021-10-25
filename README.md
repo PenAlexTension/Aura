@@ -5,7 +5,9 @@ Phase 1
   o Shall install the Raspian OS
   o Shall enable SPI and I2C I/O
   o Shall install and setup the SW tools
-• Shall demonstrate basic understanding of Python coding  
+• Shall demonstrate basic understanding of Python coding
+  o Create simple unit conversion program
+  o Need to create detailed requirements for your chosen program
 o Create simple unit conversion program  
 • Shall demonstrate basic understanding of Raspberry Pi I/O  
 o Configure LED on breadboard  
